@@ -22,7 +22,7 @@ class Resume extends StatelessWidget {
                 decoration: BoxDecoration(
                     shape: BoxShape.circle,
                     image: DecorationImage(
-                      image: AssetImage('assets/images/photo.jpeg'),
+                      image: AssetImage('assets/images/photo.png'),
                       fit: BoxFit.fill,
                 ),
                 ),
